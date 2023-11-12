@@ -2,7 +2,7 @@
 
 Model hanya akan menjadi folder induk yang berisi semua data terkait model.
 
-```json
+```bash
 src/models
 ├── addresses
 │   ├── entities
