@@ -1,6 +1,6 @@
 ## Database Migrations/Seeders 📤
 
- Folder src/database sangat sederhana:
+ Folder `src/database` sangat sederhana:
 
  ```bash 
     src/database
