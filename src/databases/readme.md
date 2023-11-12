@@ -2,7 +2,7 @@
 
  Folder src/database sangat sederhana:
 
- ```json src/database
+ ```bash 
     src/database
     ├── factories
     │   ├── addresses
