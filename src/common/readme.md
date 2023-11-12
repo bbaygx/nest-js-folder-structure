@@ -3,7 +3,7 @@ Seperti yang Anda lihat, src/common memiliki jumlah direktori terbanyak di sini.
  Tidak banyak yang perlu dijelaskan di sini, kecuali fakta bahwa kami menggunakan dasar-dasar inti NestJS [Baca Ini](https://docs.nestjs.com/custom-decorators) (seperti pelindung, pipa, dekorator) di folder ini & beberapa common constants, interfaces & helpers..
 
 
- ```json
+ ```bash
  src/common
 ├── constants
 │   └── settings.ts
