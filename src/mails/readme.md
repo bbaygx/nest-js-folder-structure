@@ -2,7 +2,7 @@
 
 Folder mails hanya akan berisi konten yang akan digunakan di mailer Anda.
 
-```json
+```bash
 
 src/mails
 └── verification
@@ -14,6 +14,9 @@ File `data.ts` ini hanyalah fungsi yang mengembalikan konten string untuk email 
 
 Something like:
 
+```javascript
 const content = (firstName: string, verificationLink: string): string => {
   return `Hello ${firstName}, <br><br> Please verify your <a href="${verificationLink}">account</a>. Thanks!`
 }
+
+```
