@@ -4,7 +4,7 @@ Mari kita mulai tutorial kita dengan inisialisasi variabel environment.  Saya me
 
  Folder `config/` terdiri dari berbagai bagian tipe variabel untuk dimuat ke environment.
 
-```json
+```bash
 
 src/config
 ├── app
