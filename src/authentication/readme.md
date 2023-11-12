@@ -2,7 +2,7 @@ Authentication 👨‍💻
 
 Folder ini mirip dengan folder lain di src/models .  Satu-satunya perbedaan yang Anda temukan di sini adalah penambahan strategi otentikasi yang terlibat.  Anda juga bisa menyimpan strategi di foldernya sendiri.
 
-```json
+```bash
 
 src/authentication
 ├── dto
