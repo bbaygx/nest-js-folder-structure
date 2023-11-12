@@ -4,7 +4,7 @@ Penyedia pada dasarnya akan menjadi modul inti yang memulai koneksi antara aplik
 
  Saya yakin ini adalah salah satu cara paling sederhana untuk menyusun folder penyedia Anda:
 
-```json
+```bash
 
 src/providers
 ├── cache
